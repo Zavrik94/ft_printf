@@ -1,7 +1,7 @@
 #include "src/ft_printf.h"
-#include "lib"
+#include "libft/libft.h"
 
-int		main(int argc, char **argv)
+int		main(void)
 {
-	ft_printf("Hello", "World");
+	ft_printf("%s%s%s", "Hello", "World", "Hello");
 }
