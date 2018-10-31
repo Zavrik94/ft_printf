@@ -3,5 +3,5 @@
 
 int		main(void)
 {
-	ft_printf("%s%s%s", "Hello", "World", "Hello");
+	ft_printf("%s\n", "Hello from my ft_printf in docker!!!");
 }
