@@ -1,3 +1,1 @@
-make && gcc -o test main.c
-clear
-./test
+gcc ft_printf/main.c && cp ft_printf/a.out .
